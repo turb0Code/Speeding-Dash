@@ -8,6 +8,7 @@
 
 <img src="Photos/Additional/gallery-1.png" width="100%">
 
+<br>
 
 ## Szybko, szybciej... jeszcze szybciej!
 
