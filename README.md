@@ -134,7 +134,7 @@
     </td>
   </tr>
 </table>
-
+ 
 ## Wszystko, czego potrzebujesz, pod ręką
 
 Aplikacja <b>Speeding Dash</b> umożliwia szybkie uruchamianie Twoich ulubionych aplikacji — np. preferowanej nawigacji czy komunikatora drogowego — bez konieczności przeklikiwania się przez menu telefonu. Jednym kliknięciem na ekranie głównym otworzysz potrzebne narzędzia i ruszysz w trasę, zachowując pełny podgląd telemetrii oraz alertów.
