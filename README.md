@@ -9,6 +9,19 @@
 
 <img src="Photos/Additional/gallery-1.png" width="100%">
 
+<div align="center">
+  <a href="https://github.com/turb0Code/Speeding-Dash/releases/latest/download/app-release.apk">
+    <img src="Photos/Additional/download-button.png" alt="Pobierz Speeding Dash APK" width="300">
+  </a>
+</div>
+
+<br>
+
+
+> **⚠️ Ważna uwaga przed instalacją:**
+> Do poprawnego działania powiadomień i telemetrii aplikacja wymaga przyznania **uprawnień do lokalizacji** (ustawionych na *„Zawsze zezwalaj”*).
+> Jeśli instalujesz plik APK spoza sklepu Google Play, po zainstalowaniu wejdź w **Ustawienia telefonu ➔ Aplikacje ➔ Speeding Dash ➔ kliknij 3 kropki w prawym górnym rogu** i wybierz **„Zezwól na ograniczone ustawienia”** (*Allow restricted settings*), aby umożliwić działanie alertów w tle i pływającego okna.
+
 
 ## Szybko, szybciej... jeszcze szybciej!
 
@@ -134,7 +147,7 @@
     </td>
   </tr>
 </table>
- 
+
 ## Wszystko, czego potrzebujesz, pod ręką
 
 Aplikacja <b>Speeding Dash</b> umożliwia szybkie uruchamianie Twoich ulubionych aplikacji — np. preferowanej nawigacji czy komunikatora drogowego — bez konieczności przeklikiwania się przez menu telefonu. Jednym kliknięciem na ekranie głównym otworzysz potrzebne narzędzia i ruszysz w trasę, zachowując pełny podgląd telemetrii oraz alertów.
