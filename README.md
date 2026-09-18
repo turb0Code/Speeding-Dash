@@ -88,7 +88,7 @@
       <img src="Photos/Additional/opp.png" width="100%">
     </td>
     <td width="65%" valign="middle" style="border: none; background: transparent;">
-      Wjazd w strefę OPP nie musi oznaczać stresu i ciągłego liczenia w pamięci. <b>Speeding Dash</b> nie tylko wylicza Twoją realną średnią prędkość na danym odcinku, ale dynamicznie podpowiada, z jakiej prędkością powinieneś kontynuować jazdę do końca strefy, aby bezstresowo i zgodnie z przepisami ukończyć pomiar.
+      Wjazd w strefę OPP nie musi oznaczać stresu i ciągłego liczenia w pamięci. <b>Speeding Dash</b> nie tylko wylicza Twoją realną średnią prędkość na danym odcinku, ale dynamicznie podpowiada, z jaką prędkością powinieneś kontynuować jazdę do końca strefy, aby bezstresowo i zgodnie z przepisami ukończyć pomiar.
     </td>
   </tr>
 </table>
@@ -121,6 +121,19 @@
   </tr>
 </table>
 
+
+## Nawigacja zawsze pod ręką – Floating Window
+
+<table style="border: none; background: transparent;">
+  <tr style="border: none; background: transparent;">
+    <td width="65%" valign="middle" style="border: none; background: transparent;">
+      Nie musisz wybierać między podglądem telemetrii a nawigacją. <b>Speeding Dash</b> obsługuje tryb pływającego okna (Floating Window), wyświetlając miniaturową mapę w prawym dolnym rogu ekranu. Masz pełną kontrolę nad trasą bez zasłaniania kluczowych wskaźników prędkości i przeciążeń.
+    </td>
+    <td width="35%" align="center" valign="middle" style="border: none; background: transparent;">
+      <img src="Photos/Additional/mapy.png" width="100%">
+    </td>
+  </tr>
+</table>
 
 ## Wszystko, czego potrzebujesz, pod ręką
 
